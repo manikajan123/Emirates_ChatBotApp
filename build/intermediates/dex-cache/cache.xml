@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_4a8a1d82c7ec662755ff7eca8fa2e4ed38fecf46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\conversation\3.5.3\30711fe987b43f8e26942a232bc29bf0c545243d\conversation-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30711fe987b43f8e26942a232bc29bf0c545243d">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\conversation-3.5.3_d16d8583004b10e91b286c083d8b880895529a7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_24e34c5005452a0c43b9a3589f6edffa21099ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa6e7662fad7e7d8ca953d284e7f873c4e921b5f">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_221e0b6094113c14c3c7f2611632d50e264d410d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_010301939750701a1eba97fbb01f9623aaf47c6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6429876491b1da8d424924c232fc92598520d032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\core\3.5.3\c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2\core-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7d0e2ecfcad9ed1cdfb1cbb20bc2f7678939bb2">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.5.3_a02eae764d3bc963daee350c46be3ee5976bed1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_7d19b8ef4edbb296acc72edb40929f059908414f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.2_2f8499a4ffcbceb6fbdec3e2dee84581c80000d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_8948a20cc711794188e1e0137fbb477e2ba0f740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_c271f1a0a20888742f1615d6c4e0e7aa97ca013f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.3.1_984603546638263ed6b01fa5c3dbb889683fee1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_592a96610c11e45a1809c7dad3b0e27ce2edad7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.ibm.watson.developer_cloud\android-sdk\0.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43d5483c99811e1921d4d4d5c704aa04e83236c6">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ibm.watson.developer_cloud-android-sdk-0.2.1_f69a151c791272758bcb76adcaec2adf230d2d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\4.2.2\5012450aee579c3118ff09461d5ce210e0cdc2a9\jna-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5012450aee579c3118ff09461d5ce210e0cdc2a9">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jna-4.2.2_1d6ce27f61977ae4d693ff3ae1bf2b6e7345dad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_b77207e7d385bb53c63567445b9a8bbf3c20fe8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_2bd607b3054dc543568e4040f52db0a212541d41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="36582d4904158632f1faf384cb13492e99b3b407">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05e0690fa12da1e0a2690101bdb2f8db04fb16f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\text-to-speech\3.5.3\54c7b06570e007136526bcc0502d63474b2e487\text-to-speech-3.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="054c7b06570e007136526bcc0502d63474b2e487">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\text-to-speech-3.5.3_34da43e2999c7b761998d8288e46d10540d0c1b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_78615a04c4f6375e9af703ec8eb049deb642516d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fb8a9f161847a0ee95a8f01370aeba3165d168fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_eba190f4262be01f08911b3790a4d879cbf3f4e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8d17ba69426f978e5c25a5194ee0999e8cda3d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f35474e2284dfdc55785b0e1992ef244032ec748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8db5509af6ff6f28bc4d04369585ae8158102771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a188ac7ca75df6c55fe4ebd4680b308118541ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_96ddb9e20b8760b6dc9dcc0991952bd8ce1ea5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_f5131f75ab335c510109231eaf361c4c4e2fdd36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b5450b67185c1daa2a0847bc6089f3fe79bd1df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\manika\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="D:\CMU-1\3rd SEM\Hackathon\WatBot-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jersey-jsr166e-2.22.2_1a1277046a453cd2f43b1e4ac576bba5782c9011\classes.dex" />
+    </item>
+
+</items>
